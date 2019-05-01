@@ -1,0 +1,12 @@
+body {
+  font-family: 'Oswaldo', sans-serif;
+  color: white;
+  font-size: 20px;
+  background-color: #2980B9;
+}
+
+.main {
+  margin: auto;
+  width: 550px;
+  text-align: left;
+}
