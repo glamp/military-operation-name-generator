@@ -1,3 +1,4 @@
 # military-operation-name-generator
+When you need a name for your op. Go here:
 
-https://glamp.github.io/military-operation-name-generator/
+http://militarynameoperationgenerator.party/
